@@ -10,7 +10,7 @@ import {setupCourses} from '../common/setup-test-data';
 import {Test} from 'tslint';
 
 
-describe('CoursesCardListComponent', () => {
+xdescribe('CoursesCardListComponent', () => {
 
     let component: CoursesCardListComponent;
     let fixture: ComponentFixture<CoursesCardListComponent>;
@@ -70,5 +70,3 @@ describe('CoursesCardListComponent', () => {
     });
 
 });
-
-

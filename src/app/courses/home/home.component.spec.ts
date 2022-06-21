@@ -16,7 +16,7 @@ import {click} from '../common/test-utils';
 
 
 
-describe('HomeComponent', () => {
+xdescribe('HomeComponent', () => {
 
   let fixture: ComponentFixture<HomeComponent>;
   let component:HomeComponent;
@@ -152,24 +152,3 @@ describe('HomeComponent', () => {
 
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
